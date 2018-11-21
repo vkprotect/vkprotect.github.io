@@ -1,5 +1,5 @@
 # vkprotect.github.io
-git add xxx.png
+git add logo.png
 git commit -m 'add png file'
-git remote add origin https://github.com/xxx.git
+git remote add origin https://github.com/logo.git
 git push -u origin master
